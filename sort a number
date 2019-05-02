@@ -1,0 +1,27 @@
+ <!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Это заголовок тайтл</title>
+		<script>
+     
+	  
+	   var str = 3751;
+	   str = str.toString( );
+	   var arr = str.split('').sort( );
+	   alert(Number(arr.join('')));
+	   
+
+            		</script>
+	</head>
+	<body> 
+        
+    </body>
+</html>
+
+/* var str = '3751';
+arr = str.split('');
+arr.sort();
+var result = arr.join('');
+alert(result);
+*/
