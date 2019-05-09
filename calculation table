@@ -9,7 +9,6 @@
         }
         document.write (i + ' x ' + " " + j + " = " + num + "<br>");
       } 
-    
-  }
+    }
 
     </script>
